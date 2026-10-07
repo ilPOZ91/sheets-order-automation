@@ -1,0 +1,29 @@
+Order ID,Date,Customer,Email,Phone,Product,Qty,Unit Price,Status,Due Date
+A-1001,2026-07-02,mario rossi,Mario.Rossi@Example.com,333 123 4567,Espresso Beans 1kg,2,"18,90",pagato,2026-07-16
+A-1002,03/07/2026,  GIULIA   BIANCHI ,giulia.bianchi@example.com,+39 347 9876543,Ceramic Mug,4,"9,50",Paid,17/07/2026
+a-1003,05-07-2026,luca d'angelo,luca.dangelo@example,3401112223,Moka Pot 3 cups,1,"24,00",da pagare,19/07/2026
+A-1004,2026-07-08,bianchi srl,orders@bianchi.example.org,06 5551234,Gift Box,10,"35,00",unpaid,2026-08-07
+A-1005,12/07/2026,sara verdi,sara.verdi@example.com,,Espresso Beans 1kg,3,"18,90",yes,26/07/2026
+A-1006,15/07/2026,Paolo Neri,paolo.neri@example.com,328-444-5566,Grinder,1,"€ 89,00",Paid,29/07/2026
+A-1006,15/07/2026,Paolo Neri,paolo.neri@example.com,328-444-5566,Grinder,1,"€ 89,00",Paid,29/07/2026
+A-1007,2026-07-20,anna-maria conti,anna.conti@example.com,0039 339 2223344,Ceramic Mug,6,"9,50",pending,2026-08-03
+A-1008,22.07.2026,Marco Gallo,marco.gallo@example.com,12,Gift Box,2,"35,00",Paid,05.08.2026
+,,,,,,,,,
+A-1009,2026-08-01,elena ricci,ELENA.RICCI@EXAMPLE.COM,335 666 7788,Espresso Beans 1kg,5,"18,90",si,2026-08-15
+A-1010,04/08/2026,Caffè Roma snc,info@cafferoma.example.net,02 4445566,Espresso Beans 1kg,20,"16,50",unpaid,03/09/2026
+A-1011,2026-08-06,federico esposito,federico.esposito@example.com,349 777 8899,Moka Pot 3 cups,2,"24,00",Paid,2026-08-20
+A-1012,10/08/2026,Chiara Romano,chiara.romano@example.com,331 222 3344,Grinder,1,"89,00",boh,24/08/2026
+A-1013,2026-08-18,giorgio fontana,giorgio.fontana@example.com,333 999 0000,Ceramic Mug,0,"9,50",Paid,2026-09-01
+A-1014,2026-08-25,Bianchi srl,orders@bianchi.example.org,06 5551234,Gift Box,8,"35,00",unpaid,2026-09-24
+A-1015,02/09/2026,laura marino,laura.marino@example.com,320 123 9876,Espresso Beans 1kg,2,"18,90",Paid,16/09/2026
+A-1016,2026-09-05,Stefano Greco,stefano.greco@example.com,338 456 7890,Gift Box,1,"35,00",unpaid,2026-09-19
+A-1017,2026-09-05,Stefano Greco,stefano.greco@example.com,338 456 7890,Gift Box,1,"35,00",unpaid,2026-09-19
+A-1018,09/09/2026,valentina bruno,valentina.bruno@example.com,347 321 6540,Moka Pot 3 cups,3,"24,00",Paid,23/09/2026
+A-1019,2026-09-14,Caffè Roma snc,info@cafferoma.example.net,02 4445566,Espresso Beans 1kg,25,"16,50",da pagare,2026-10-14
+A-1020,2026-09-18,Alessio Moretti,alessio.moretti@example.com,333 101 2020,Grinder,1,"89,00",Paid,2026-10-02
+A-1021,31/09/2026,Martina Barbieri,martina.barbieri@example.com,339 303 4040,Ceramic Mug,2,"9,50",Paid,14/10/2026
+A-1022,2026-09-25,simone lombardi,simone.lombardi@example.com,340 505 6060,Espresso Beans 1kg,4,"18,90",unpaid,2026-10-09
+A-1023,2026-10-01,Francesca Costa,francesca.costa@example.com,345 707 8080,Gift Box,3,"35,00",Paid,2026-10-15
+A-1024,2026-10-02,Bianchi srl,orders@bianchi.example.org,06 5551234,Gift Box,12,"34,00",unpaid,2026-11-01
+A-1025,2026-10-03,roberto ferrara,roberto.ferrara@example.com,348 909 1010,Moka Pot 3 cups,1,"24,00",unpaid,2026-10-17
+A-1026,2026-10-05,Elena Ricci,elena.ricci@example.com,335 666 7788,Commercial Grinder,1,"1.089,00",Paid,2026-10-19
